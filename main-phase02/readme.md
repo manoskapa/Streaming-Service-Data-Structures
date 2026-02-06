@@ -4,17 +4,9 @@ A simplified streaming service backend implemented in C.
 
 The project simulates user registration, movie management, and watch history using hash tables and binary search trees.
 
-Developed as part of a university systems programming assignment.
-
-
-
----
-
-
+Developed as a university programming assignment.
 
 \# Features
-
-
 
 1)User registration via hash table
 2)Movie storage per category using BSTs
@@ -26,24 +18,13 @@ Developed as part of a university systems programming assignment.
 
 .
 
-├── main.c # Input parsing and event handling
-
-├── Movie.c # Core implementation
-
-├── Movie.h # Data structures \& prototypes
-
-├── Makefile
-
-└── README.md
-
----
-
-
+main.c # Input parsing and event handling
+Movie.c # Core implementation
+Movie.h # Data structures \& prototypes
+Makefile
+README.md
 
 \## Build
-
-
-
 ```bash
 
 make
@@ -84,9 +65,6 @@ Users stored in a hash table with chaining
 Movies organized per category using binary search trees
 
 Each user maintains a BST-based watch history
-
-
-
 
 Technologies
 
