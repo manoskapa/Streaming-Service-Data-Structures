@@ -1,6 +1,5 @@
-\# CS240 Streaming Service (C)
-
-A simplified streaming service backend implemented in C.  
+\#Streaming Service (C)
+A simplified streaming service implemented in C.  
 
 The project simulates user registration, movie management, and watch history using hash tables and binary search trees.
 
