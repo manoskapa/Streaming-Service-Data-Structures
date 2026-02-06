@@ -1,4 +1,4 @@
-\# CS240 Streaming Service (C)
+\#Streaming Service (C)
 
 A simplified streaming service backend implemented in C.  
 
